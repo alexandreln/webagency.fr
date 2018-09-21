@@ -492,6 +492,7 @@ iframe{
 	height: 480px;
 	right: 100px;
 	padding-left: 20px;
+	z-index: 100;
 }
 
 #send{
